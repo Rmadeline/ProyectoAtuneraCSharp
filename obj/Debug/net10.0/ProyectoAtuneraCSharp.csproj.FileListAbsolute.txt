@@ -1,0 +1,14 @@
+C:\Users\Bruno\ProyectoAtuneraCSharp\bin\Debug\net10.0\ProyectoAtuneraCSharp.exe
+C:\Users\Bruno\ProyectoAtuneraCSharp\bin\Debug\net10.0\ProyectoAtuneraCSharp.deps.json
+C:\Users\Bruno\ProyectoAtuneraCSharp\bin\Debug\net10.0\ProyectoAtuneraCSharp.runtimeconfig.json
+C:\Users\Bruno\ProyectoAtuneraCSharp\bin\Debug\net10.0\ProyectoAtuneraCSharp.dll
+C:\Users\Bruno\ProyectoAtuneraCSharp\bin\Debug\net10.0\ProyectoAtuneraCSharp.pdb
+C:\Users\Bruno\ProyectoAtuneraCSharp\obj\Debug\net10.0\ProyectoAtuneraCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\ProyectoAtuneraCSharp\obj\Debug\net10.0\ProyectoAtuneraCSharp.AssemblyInfoInputs.cache
+C:\Users\Bruno\ProyectoAtuneraCSharp\obj\Debug\net10.0\ProyectoAtuneraCSharp.AssemblyInfo.cs
+C:\Users\Bruno\ProyectoAtuneraCSharp\obj\Debug\net10.0\ProyectoAtuneraCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\ProyectoAtuneraCSharp\obj\Debug\net10.0\ProyectoAtuneraCSharp.dll
+C:\Users\Bruno\ProyectoAtuneraCSharp\obj\Debug\net10.0\refint\ProyectoAtuneraCSharp.dll
+C:\Users\Bruno\ProyectoAtuneraCSharp\obj\Debug\net10.0\ProyectoAtuneraCSharp.pdb
+C:\Users\Bruno\ProyectoAtuneraCSharp\obj\Debug\net10.0\ProyectoAtuneraCSharp.genruntimeconfig.cache
+C:\Users\Bruno\ProyectoAtuneraCSharp\obj\Debug\net10.0\ref\ProyectoAtuneraCSharp.dll
